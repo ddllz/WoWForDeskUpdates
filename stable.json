@@ -1,16 +1,16 @@
 {
  "format": 1,
  "channel": "stable",
- "issued": 1795031746,
+ "issued": 1795033328,
  "app": {
-  "version": "0.2.1",
-  "file": "app-0.2.1.wfd",
-  "sha256": "83098d3c9676cc8033c7a27d0c90019fe47fed33c6d701aaf4d9a84242788d04",
-  "size": 3698449,
+  "version": "0.2.2",
+  "file": "app-0.2.2.wfd",
+  "sha256": "82784118acede61d1d322a6bfcaea92c410051e2b8e8177699395cfea6a4ce13",
+  "size": 3750193,
   "rollout": 1.0,
   "min_shell": 1,
   "notes": [
-   "The program looks for a new version every 30 minutes, not every six hours: fixes reach you the same evening."
+   "Feedback at the bottom of the left column: tell the author what is wrong, what to add, or ask; the diagnostics go with it (you see what they hold), and a note written offline goes when the program can send it."
   ]
  },
  "revoked": []
