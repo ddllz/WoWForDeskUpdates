@@ -1,18 +1,20 @@
 {
  "format": 1,
  "channel": "stable",
- "issued": 1795041285,
+ "issued": 1795043603,
  "app": {
-  "version": "0.2.7",
-  "file": "app-0.2.7.wfd",
-  "sha256": "bce0db4b0c5dbe30f85f84f6f8fb0b812f21922c3178996b85519bcdb69b1be5",
-  "size": 3810707,
+  "version": "0.2.8",
+  "file": "app-0.2.8.wfd",
+  "sha256": "b28fe0870777132151a9d1de1ddd39d15bfcf35e4509ed55ff40ec42dd87c1f6",
+  "size": 3872931,
   "rollout": 1.0,
   "min_shell": 1,
   "notes": [
-   "Leveling, farming spots, class quests and where items come from work without any other addon: when no quest database is in the game, the program downloads it once a week (Settings → Calculations can turn it off).",
-   "The WoWForDesk addon (0.6.1) notes which quests you have done and carry, so finished quests are left out without any other addon too.",
-   "A new version shows as a big gold card in the lower right corner: Restart now, What's new, Later."
+   "Our own gear scales for every class and spec — leveling, PvE 60, PvP 60: Character → a slot values every item of the auction house and the dungeons by its stats, no other addon needed. The spec comes from your talents (★); pick another spec or purpose in two rows. While leveling, Intellect, Spirit and Stamina weigh more: regen and survival.",
+   "With a two-hander worn, the best one-hander and off-hand pairs of the auction house are weighed against it.",
+   "An item's tooltip in the list is that very item, with its suffix (\"of Frozen Wrath\"), valued by the same scale.",
+   "A frost mage's scale gives nothing for fire damage, and so on for the other mage schools.",
+   "Addon 0.6.2: item tooltips are kept with or without a gear scale addon, and the talent points are read."
   ]
  },
  "revoked": []
