@@ -1,17 +1,18 @@
 {
  "format": 1,
  "channel": "stable",
- "issued": 1795039360,
+ "issued": 1795041285,
  "app": {
-  "version": "0.2.6",
-  "file": "app-0.2.6.wfd",
-  "sha256": "e012a634be5b4509127af90a6d2dddaf9f4658437930e54a9ae29ef6ea0218ce",
-  "size": 3776903,
+  "version": "0.2.7",
+  "file": "app-0.2.7.wfd",
+  "sha256": "bce0db4b0c5dbe30f85f84f6f8fb0b812f21922c3178996b85519bcdb69b1be5",
+  "size": 3810707,
   "rollout": 1.0,
   "min_shell": 1,
   "notes": [
-   "A race the icon server has no portrait for (Skyborne) shows the class icon instead of an empty circle.",
-   "A farming spot that loses gold is no longer offered as a task (before the first auction scan, loot is worth nothing)."
+   "Leveling, farming spots, class quests and where items come from work without any other addon: when no quest database is in the game, the program downloads it once a week (Settings → Calculations can turn it off).",
+   "The WoWForDesk addon (0.6.1) notes which quests you have done and carry, so finished quests are left out without any other addon too.",
+   "A new version shows as a big gold card in the lower right corner: Restart now, What's new, Later."
   ]
  },
  "revoked": []
