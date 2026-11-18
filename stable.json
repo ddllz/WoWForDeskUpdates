@@ -1,20 +1,19 @@
 {
  "format": 1,
  "channel": "stable",
- "issued": 1795036232,
+ "issued": 1795038646,
  "app": {
-  "version": "0.2.4",
-  "file": "app-0.2.4.wfd",
-  "sha256": "f3c64c567368c8f349ca369d37d9156a138f08ac3e30292d293895598447c451",
-  "size": 3756083,
+  "version": "0.2.5",
+  "file": "app-0.2.5.wfd",
+  "sha256": "a4541d7500f71083664b38b73dec3c464568bab7bc9ca3f7e24417ba74d806ee",
+  "size": 3777195,
   "rollout": 1.0,
   "min_shell": 1,
   "notes": [
-   "A page that needs the license key now shows the key page, instead of \"The page could not be drawn\".",
-   "The program holds its address alone: another program on the same port can no longer answer in its place. The new installer also moves to a free port when 8791 is taken.",
-   "The start screen shows that the program is working: a turning ring, what it is doing, the seconds so far.",
-   "GoldDesk, the addon WoWForDesk grew from, is turned off for every character (it stayed on where the AddOns list did not name it, and both ran side by side).",
-   "The installer's window has no scroll bar."
+   "The addon goes into the game at once, also while the game is running; the program then says to quit the game and start it again (a new addon loads only when the game starts).",
+   "Getting started: until the program knows your characters, every page shows what is left — the game's folder, the addon, logging in, /reload — and ticks the steps off as they are done.",
+   "Settings → Game and data → The game: a Browse button opens Windows' folder window; the program also finds the game through its entry in Installed apps and Battle.net's settings, on any drive.",
+   "The game and the addon are at the top of Settings → Game and data."
   ]
  },
  "revoked": []
