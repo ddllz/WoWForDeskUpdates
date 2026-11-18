@@ -1,16 +1,16 @@
 {
  "format": 1,
  "channel": "stable",
- "issued": 1795033328,
+ "issued": 1795034384,
  "app": {
-  "version": "0.2.2",
-  "file": "app-0.2.2.wfd",
-  "sha256": "82784118acede61d1d322a6bfcaea92c410051e2b8e8177699395cfea6a4ce13",
-  "size": 3750193,
+  "version": "0.2.3",
+  "file": "app-0.2.3.wfd",
+  "sha256": "955bd628241e100e6002f1373161923dddf6c736b600c0ed7bc41d566f9b9404",
+  "size": 3750307,
   "rollout": 1.0,
   "min_shell": 1,
   "notes": [
-   "Feedback at the bottom of the left column: tell the author what is wrong, what to add, or ask; the diagnostics go with it (you see what they hold), and a note written offline goes when the program can send it."
+   "The Feedback panel is laid out properly: a tall box for your note, the kind switch keeps its size."
   ]
  },
  "revoked": []
