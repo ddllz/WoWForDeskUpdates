@@ -1,24 +1,16 @@
 {
  "format": 1,
  "channel": "stable",
- "issued": 1795030863,
+ "issued": 1795031746,
  "app": {
-  "version": "0.2.0",
-  "file": "app-0.2.0.wfd",
-  "sha256": "dcc68d69ea006a3bbb2c1441e76291b0523979253485d26072d860e301747fc0",
-  "size": 3698413,
+  "version": "0.2.1",
+  "file": "app-0.2.1.wfd",
+  "sha256": "83098d3c9676cc8033c7a27d0c90019fe47fed33c6d701aaf4d9a84242788d04",
+  "size": 3698449,
   "rollout": 1.0,
   "min_shell": 1,
   "notes": [
-   "The first build for testers: an installer, a license key, updates that come by themselves.",
-   "The program puts its addon, WoWForDesk, into the game by itself while the game is closed (chat command /wfd).",
-   "It finds the game on its own; if it does not, Settings → Game and data takes the folder and the account.",
-   "Home and Journal: what to do next, with gold and time; your goals and your week.",
-   "Trade: what to sell, buy, deal and what the market does; the ledger.",
-   "Craft: what makes gold, how to level a profession, what to learn.",
-   "Farm: the best spots by gold or experience, with skinning; your farm sessions and runs.",
-   "Leveling: zones, dungeons and group quests by level; class quests; for hunters, the pet's ranks and the best pet.",
-   "Character: the sheet, gear upgrades from the auction house and dungeons."
+   "The program looks for a new version every 30 minutes, not every six hours: fixes reach you the same evening."
   ]
  },
  "revoked": []
