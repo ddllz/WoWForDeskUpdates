@@ -1,19 +1,17 @@
 {
  "format": 1,
  "channel": "stable",
- "issued": 1795038646,
+ "issued": 1795039360,
  "app": {
-  "version": "0.2.5",
-  "file": "app-0.2.5.wfd",
-  "sha256": "a4541d7500f71083664b38b73dec3c464568bab7bc9ca3f7e24417ba74d806ee",
-  "size": 3777195,
+  "version": "0.2.6",
+  "file": "app-0.2.6.wfd",
+  "sha256": "e012a634be5b4509127af90a6d2dddaf9f4658437930e54a9ae29ef6ea0218ce",
+  "size": 3776903,
   "rollout": 1.0,
   "min_shell": 1,
   "notes": [
-   "The addon goes into the game at once, also while the game is running; the program then says to quit the game and start it again (a new addon loads only when the game starts).",
-   "Getting started: until the program knows your characters, every page shows what is left — the game's folder, the addon, logging in, /reload — and ticks the steps off as they are done.",
-   "Settings → Game and data → The game: a Browse button opens Windows' folder window; the program also finds the game through its entry in Installed apps and Battle.net's settings, on any drive.",
-   "The game and the addon are at the top of Settings → Game and data."
+   "A race the icon server has no portrait for (Skyborne) shows the class icon instead of an empty circle.",
+   "A farming spot that loses gold is no longer offered as a task (before the first auction scan, loot is worth nothing)."
   ]
  },
  "revoked": []
