@@ -1,18 +1,16 @@
 {
  "format": 1,
  "channel": "beta",
- "issued": 1795114843,
+ "issued": 1795115570,
  "app": {
-  "version": "0.3.8",
-  "file": "app-0.3.8.wfd",
-  "sha256": "87658665ed5788b596b7661b24c41941b9ccc762cdc2f3246f18b70f445a2727",
-  "size": 4158227,
+  "version": "0.3.9",
+  "file": "app-0.3.9.wfd",
+  "sha256": "9fceb9a83acde9cdcc794d1329ec17e7487018ef4536b9f553d63c046057cff6",
+  "size": 4159204,
   "rollout": 1.0,
   "min_shell": 1,
   "notes": [
-   "Farm → Spots says how many players a camp feeds at your pace, and ranks a camp for one lower.",
-   "The addon notes how crowded a zone is (how many mobs around were already taken by others); crowded zones rank lower, with a line that says why.",
-   "Places where Blizzard slowed respawns or took loot away are marked."
+   "Farm → Spots opens with the best for you now: the best camp, the best dungeon you ran, and a drop worth a try. A card takes you to its line."
   ]
  },
  "revoked": []
