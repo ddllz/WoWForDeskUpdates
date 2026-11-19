@@ -1,16 +1,17 @@
 {
  "format": 1,
  "channel": "stable",
- "issued": 1795046292,
+ "issued": 1795047161,
  "app": {
-  "version": "0.2.9",
-  "file": "app-0.2.9.wfd",
-  "sha256": "81a40f0e94fcbdfab44154c5fb202522901edf8993d4fd8d61f22a5e99ec2d0a",
-  "size": 3877458,
+  "version": "0.2.10",
+  "file": "app-0.2.10.wfd",
+  "sha256": "335d5e4482d2b1eb87a1416b3ef51d86d9ac12083563242ff711e1d09bc66749",
+  "size": 3939296,
   "rollout": 1.0,
   "min_shell": 1,
   "notes": [
-   "The new WoWForDesk logo in the program: the left column and the browser tab icon."
+   "The logo in the left column is sharp: the word is real text now, not a small picture.",
+   "The window, taskbar and tray icon and the start screen come with the program's updates from now on (after one reinstall with the new setup)."
   ]
  },
  "revoked": []
