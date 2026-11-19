@@ -1,16 +1,17 @@
 {
  "format": 1,
  "channel": "beta",
- "issued": 1795099899,
+ "issued": 1795100204,
  "app": {
-  "version": "0.3.1",
-  "file": "app-0.3.1.wfd",
-  "sha256": "2f1c1805f8e6548ec408359792fd293c051452213ba527df6d55079166e05b74",
-  "size": 4051575,
+  "version": "0.3.2",
+  "file": "app-0.3.2.wfd",
+  "sha256": "12c8979cd3fd81587c29b4032654d4ae719021df733dee882a38334da7f053e9",
+  "size": 4052138,
   "rollout": 1.0,
   "min_shell": 1,
   "notes": [
-   "No bar in the middle of the screen any more: farm sessions run quietly, their numbers are in the minimap button's tooltip and on the Farm page. A small bar by the minimap can be turned on in Tools; it shows only real numbers."
+   "Titan Panel shows the farm session: gold and experience an hour, the time, the next level. Hovering over it or over the minimap button shows what was farmed, at vendor prices, upkeep, corpses and experience.",
+   "Short money on one line: gold and silver, no copper."
   ]
  },
  "revoked": []
