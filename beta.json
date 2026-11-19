@@ -1,17 +1,18 @@
 {
  "format": 1,
  "channel": "beta",
- "issued": 1795117520,
+ "issued": 1795119257,
  "app": {
-  "version": "0.4.0",
-  "file": "app-0.4.0.wfd",
-  "sha256": "12fbc451f5e977d9bcfe46d6c00d3f563c41867ea75414e7802d1b15b3e14f7a",
-  "size": 4174749,
+  "version": "0.4.1",
+  "file": "app-0.4.1.wfd",
+  "sha256": "ce5afaf1adf5055500cac84a513719f2201c2f9e204253ed13f7a9d933e35cc9",
+  "size": 4178372,
   "rollout": 1.0,
   "min_shell": 1,
   "notes": [
-   "The app's tasks in the game: the Now page of the addon's window lists what to sell, buy, craft, learn and where to farm, with what each brings. Track one to see it on the screen with its steps; Done and Not interested made in the game reach the app.",
-   "Craft → Level up: the Cheapest / Fastest switch answers at once; the new plan follows a few seconds later."
+   "In the game, a card when a dungeon run ends: experience from mobs and from quests, loot and coins, bosses and deaths, and how it went against your last run of that place. A reset ends the run at once.",
+   "The Runs page counts the entries of the last hour on the whole account and says when the next one frees up. The hourly limit on Forever is not published: the addon learns it the first time the game stops an entry.",
+   "The app shows a run's experience from mobs and from quests apart."
   ]
  },
  "revoked": []
