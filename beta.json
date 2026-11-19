@@ -1,20 +1,16 @@
 {
  "format": 1,
  "channel": "beta",
- "issued": 1795098467,
+ "issued": 1795099899,
  "app": {
-  "version": "0.3.0",
-  "file": "app-0.3.0.wfd",
-  "sha256": "7839448d7b5546c2de17039def28626bb829d434f0cf730523483406ec1d32e4",
-  "size": 4051408,
+  "version": "0.3.1",
+  "file": "app-0.3.1.wfd",
+  "sha256": "2f1c1805f8e6548ec408359792fd293c051452213ba527df6d55079166e05b74",
+  "size": 4051575,
   "rollout": 1.0,
   "min_shell": 1,
   "notes": [
-   "The addon gets one window: /wfd, the button at the minimap or a key. Pages Now, Farm, Runs, Craft, Lists, Tools and Settings; switches instead of chat commands.",
-   "Farm sessions start by themselves at the first loot outside towns, pause after 5 minutes without loot and end after 20. They count experience an hour and the time to the next level.",
-   "A bar on the screen while you farm, and a card with what the session gave when it ends.",
-   "The window says when the app last sent its data and what of this session it has not got yet.",
-   "Coins from corpses are counted with auto loot too: until now most of them were missed."
+   "No bar in the middle of the screen any more: farm sessions run quietly, their numbers are in the minimap button's tooltip and on the Farm page. A small bar by the minimap can be turned on in Tools; it shows only real numbers."
   ]
  },
  "revoked": []
