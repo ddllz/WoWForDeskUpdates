@@ -1,17 +1,17 @@
 {
  "format": 1,
  "channel": "stable",
- "issued": 1795047161,
+ "issued": 1795048038,
  "app": {
-  "version": "0.2.10",
-  "file": "app-0.2.10.wfd",
-  "sha256": "335d5e4482d2b1eb87a1416b3ef51d86d9ac12083563242ff711e1d09bc66749",
-  "size": 3939296,
+  "version": "0.2.11",
+  "file": "app-0.2.11.wfd",
+  "sha256": "231cf6ce4bb68105ae46b056a7737ae873594efe06b781a247fb091f1bf8aadb",
+  "size": 3953145,
   "rollout": 1.0,
   "min_shell": 1,
   "notes": [
-   "The logo in the left column is sharp: the word is real text now, not a small picture.",
-   "The window, taskbar and tray icon and the start screen come with the program's updates from now on (after one reinstall with the new setup)."
+   "The icon is the gold mark alone, without the dark square, like other programs' icons.",
+   "The desktop and Start menu shortcuts show the new icon by themselves after an update."
   ]
  },
  "revoked": []
