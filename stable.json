@@ -1,16 +1,17 @@
 {
  "format": 1,
  "channel": "stable",
- "issued": 1795092837,
+ "issued": 1795096441,
  "app": {
-  "version": "0.2.12",
-  "file": "app-0.2.12.wfd",
-  "sha256": "39b361450b0167d52371da62ef0d6956bd87027cd6c64986badbed2f1adec4dc",
-  "size": 3953180,
+  "version": "0.2.13",
+  "file": "app-0.2.13.wfd",
+  "sha256": "69b40ee3a86a5a1fbeb8261dde3b7debe4634c16ce7677d57d15ae08bd7d7253",
+  "size": 4019212,
   "rollout": 1.0,
   "min_shell": 1,
   "notes": [
-   "The installer no longer freezes at \"Preparing the installer…\"."
+   "New: Trade → Trends. What rises and what falls among the goods that sell every day, with a chart for each, sorting by any column, and filters by kind of goods.",
+   "It picks what is worth buying now to sell in a week or two: how many, at what price, and above what price the sale pays back. A line under the picks says how the same rule did on your own scans."
   ]
  },
  "revoked": []
