@@ -1,16 +1,16 @@
 {
  "format": 1,
  "channel": "stable",
- "issued": 1795129006,
+ "issued": 1795130414,
  "app": {
-  "version": "0.5.1",
-  "file": "app-0.5.1.wfd",
-  "sha256": "1d24cc6ccee8823a56c10587790b3c8d9667bb9ca6fe321ba57dfcc97eb4f664",
-  "size": 4575586,
+  "version": "0.5.2",
+  "file": "app-0.5.2.wfd",
+  "sha256": "c0e6c7f4830e5620d7df04aaae0ae63c98651f953fa9512242c8b232e40feba5",
+  "size": 4582633,
   "rollout": 1.0,
   "min_shell": 1,
   "notes": [
-   "Best in slot reads better: the slots fill the page with your progress and what to get next beside them (above them on a narrower window), the spec and the kind of list sit on one line, and the enchant's state is on the enchant's line. From level 55 the ranked pre-raid list opens first."
+   "Farm for a new player: until a day of scans shows what your auction house buys, loot was valued as if it did not sell at all, and a mage at 58 saw 3-14 gold an hour. Now loot counts what usually sells of what is listed at its price, and the page says the numbers are rough until more scans come in."
   ]
  },
  "revoked": []
