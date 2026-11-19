@@ -1,18 +1,16 @@
 {
  "format": 1,
  "channel": "beta",
- "issued": 1795119257,
+ "issued": 1795120784,
  "app": {
-  "version": "0.4.1",
-  "file": "app-0.4.1.wfd",
-  "sha256": "ce5afaf1adf5055500cac84a513719f2201c2f9e204253ed13f7a9d933e35cc9",
-  "size": 4178372,
+  "version": "0.4.2",
+  "file": "app-0.4.2.wfd",
+  "sha256": "617c22f49045bdae438daf9a38299f22560637393966927f762d74793f09c6ec",
+  "size": 4174618,
   "rollout": 1.0,
   "min_shell": 1,
   "notes": [
-   "In the game, a card when a dungeon run ends: experience from mobs and from quests, loot and coins, bosses and deaths, and how it went against your last run of that place. A reset ends the run at once.",
-   "The Runs page counts the entries of the last hour on the whole account and says when the next one frees up. The hourly limit on Forever is not published: the addon learns it the first time the game stops an entry.",
-   "The app shows a run's experience from mobs and from quests apart."
+   "In the game, everything is in one window now: Craft → Recipes lists every recipe your characters know with its profit and how many you can make now; Craft → Level up shows the profession plan step by step with Track; Lists holds the shopping lists, where you add, tick off and remove items. The separate craft, professions and list windows are gone; their commands open these pages."
   ]
  },
  "revoked": []
