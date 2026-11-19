@@ -1,18 +1,16 @@
 {
  "format": 1,
  "channel": "beta",
- "issued": 1795101696,
+ "issued": 1795104770,
  "app": {
-  "version": "0.3.4",
-  "file": "app-0.3.4.wfd",
-  "sha256": "adf36da268c3c7d8d3753ae151ede7b6485f9cc43d903409d42791de97f55ab8",
-  "size": 4101594,
+  "version": "0.3.5",
+  "file": "app-0.3.5.wfd",
+  "sha256": "993350ee84e8380b505d7790ea1a1631eeeb727e0f889eca15cc7a10133083d5",
+  "size": 4136690,
   "rollout": 1.0,
   "min_shell": 1,
   "notes": [
-   "Farm → Spots is more honest: skins are no longer priced by one elite's hide, greys and gear count at the vendor, your own speed comes only from real farming and corrects the estimate for every mob, and loot on a falling market is valued at today's price.",
-   "Below level 60 the spots sort by gold, by experience, or by both.",
-   "Sales per day count a lot bought in part as only the part bought."
+   "Farm → Spots: valuable drops whose chance nobody knows (essences, rare hides) get a list of their own with what they would bring at 1–5% of kills; open-world elites come in, marked; and the dungeons you ran show gold and experience an hour inside."
   ]
  },
  "revoked": []
