@@ -1,19 +1,16 @@
 {
  "format": 1,
  "channel": "stable",
- "issued": 1795107537,
+ "issued": 1795129006,
  "app": {
-  "version": "0.3.6",
-  "file": "app-0.3.6.wfd",
-  "sha256": "ac9ca8eb3f1dcf985a8dfe9504b041e30610541799f07e7c7a4510094500a7c8",
-  "size": 4136788,
+  "version": "0.5.1",
+  "file": "app-0.5.1.wfd",
+  "sha256": "1d24cc6ccee8823a56c10587790b3c8d9667bb9ca6fe321ba57dfcc97eb4f664",
+  "size": 4575586,
   "rollout": 1.0,
   "min_shell": 1,
   "notes": [
-   "The addon gets one window: /wfd, the button at the minimap, the AddOns list at the minimap or a key. Pages Now, Farm, Runs, Craft, Lists, Tools and Settings.",
-   "Farm sessions start by themselves at the first loot outside towns, pause after 5 minutes without loot and end after 20; gold and experience an hour show in Titan Panel and in the minimap button's tooltip.",
-   "Coins from corpses are counted with auto loot too.",
-   "Farm → Spots is more honest and finds more: valuable drops of unknown chance, open-world elites, and the dungeons you ran."
+   "Best in slot reads better: the slots fill the page with your progress and what to get next beside them (above them on a narrower window), the spec and the kind of list sit on one line, and the enchant's state is on the enchant's line. From level 55 the ranked pre-raid list opens first."
   ]
  },
  "revoked": []
