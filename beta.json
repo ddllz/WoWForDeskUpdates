@@ -1,16 +1,18 @@
 {
  "format": 1,
  "channel": "beta",
- "issued": 1795120784,
+ "issued": 1795124678,
  "app": {
-  "version": "0.4.2",
-  "file": "app-0.4.2.wfd",
-  "sha256": "617c22f49045bdae438daf9a38299f22560637393966927f762d74793f09c6ec",
-  "size": 4174618,
+  "version": "0.5.0",
+  "file": "app-0.5.0.wfd",
+  "sha256": "0f3855ed33430dc06cf8cbe042da72eb1cca36df312143dfa0ceed47e82fd6c8",
+  "size": 4573833,
   "rollout": 1.0,
   "min_shell": 1,
   "notes": [
-   "In the game, everything is in one window now: Craft → Recipes lists every recipe your characters know with its profit and how many you can make now; Craft → Level up shows the profession plan step by step with Track; Lists holds the shopping lists, where you add, tick off and remove items. The separate craft, professions and list windows are gone; their commands open these pages."
+   "Best in slot: a new tab of the character. Pick the spec and a list: sim sets for level 60, ranked pre-raid lists, items worth having at levels 20 to 60. Every slot says what you wear against the list, where the item comes from (the quest and every quest before it, the boss and the chance, the reputation and how much is left, the recipe and which of your characters can make it, the vendor, the rare) and the enchant, with whether the worn item has it and how to get it. Drop an item you do not want, pick another, or put one on your goals.",
+   "In the game: the tooltip says when an item is in your BiS list, and a full auction scan names the items of your list on sale.",
+   "Recipes sold for reputation with the trading companies name your side's company."
   ]
  },
  "revoked": []
