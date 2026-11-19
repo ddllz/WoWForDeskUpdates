@@ -1,16 +1,17 @@
 {
  "format": 1,
  "channel": "beta",
- "issued": 1795115570,
+ "issued": 1795117520,
  "app": {
-  "version": "0.3.9",
-  "file": "app-0.3.9.wfd",
-  "sha256": "9fceb9a83acde9cdcc794d1329ec17e7487018ef4536b9f553d63c046057cff6",
-  "size": 4159204,
+  "version": "0.4.0",
+  "file": "app-0.4.0.wfd",
+  "sha256": "12fbc451f5e977d9bcfe46d6c00d3f563c41867ea75414e7802d1b15b3e14f7a",
+  "size": 4174749,
   "rollout": 1.0,
   "min_shell": 1,
   "notes": [
-   "Farm → Spots opens with the best for you now: the best camp, the best dungeon you ran, and a drop worth a try. A card takes you to its line."
+   "The app's tasks in the game: the Now page of the addon's window lists what to sell, buy, craft, learn and where to farm, with what each brings. Track one to see it on the screen with its steps; Done and Not interested made in the game reach the app.",
+   "Craft → Level up: the Cheapest / Fastest switch answers at once; the new plan follows a few seconds later."
   ]
  },
  "revoked": []
