@@ -1,17 +1,18 @@
 {
  "format": 1,
  "channel": "beta",
- "issued": 1795114364,
+ "issued": 1795114843,
  "app": {
-  "version": "0.3.7",
-  "file": "app-0.3.7.wfd",
-  "sha256": "1ca5de52102a6422aa3763fcafcaf67f57784b01cf0c8fd578867d503cf76c53",
-  "size": 4143949,
+  "version": "0.3.8",
+  "file": "app-0.3.8.wfd",
+  "sha256": "87658665ed5788b596b7661b24c41941b9ccc762cdc2f3246f18b70f445a2727",
+  "size": 4158227,
   "rollout": 1.0,
   "min_shell": 1,
   "notes": [
-   "The addon writes down every fight: how long it took, how many mobs died, the experience it gave.",
-   "Farm → Spots knows your class: a mage or a paladin fights several weak mobs of a close camp at once, and once twenty of your fights are counted, your own pulls set the speed."
+   "Farm → Spots says how many players a camp feeds at your pace, and ranks a camp for one lower.",
+   "The addon notes how crowded a zone is (how many mobs around were already taken by others); crowded zones rank lower, with a line that says why.",
+   "Places where Blizzard slowed respawns or took loot away are marked."
   ]
  },
  "revoked": []
