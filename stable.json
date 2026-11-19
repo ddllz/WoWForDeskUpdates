@@ -1,16 +1,16 @@
 {
  "format": 1,
  "channel": "stable",
- "issued": 1795130414,
+ "issued": 1795132079,
  "app": {
-  "version": "0.5.2",
-  "file": "app-0.5.2.wfd",
-  "sha256": "c0e6c7f4830e5620d7df04aaae0ae63c98651f953fa9512242c8b232e40feba5",
-  "size": 4582633,
+  "version": "0.5.3",
+  "file": "app-0.5.3.wfd",
+  "sha256": "a19fa688a7941f22ecbb9aaa401dd12de7797d54f02ef8d1470fc381c2941fdd",
+  "size": 4616907,
   "rollout": 1.0,
   "min_shell": 1,
   "notes": [
-   "Farm for a new player: until a day of scans shows what your auction house buys, loot was valued as if it did not sell at all, and a mage at 58 saw 3-14 gold an hour. Now loot counts what usually sells of what is listed at its price, and the page says the numbers are rough until more scans come in."
+   "Prices and sales of your realm from public pricing data: a new player sees real prices and how much of each item sells a day from the first start, not after days of scanning. Your own scans and measured sales still come first. Settings → Calculations switches it off; Settings → Game and data says what was fetched (pricing data from TradeSkillMaster)."
   ]
  },
  "revoked": []
