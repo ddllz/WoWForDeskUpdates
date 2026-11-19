@@ -1,17 +1,19 @@
 {
  "format": 1,
  "channel": "stable",
- "issued": 1795096441,
+ "issued": 1795107537,
  "app": {
-  "version": "0.2.13",
-  "file": "app-0.2.13.wfd",
-  "sha256": "69b40ee3a86a5a1fbeb8261dde3b7debe4634c16ce7677d57d15ae08bd7d7253",
-  "size": 4019212,
+  "version": "0.3.6",
+  "file": "app-0.3.6.wfd",
+  "sha256": "ac9ca8eb3f1dcf985a8dfe9504b041e30610541799f07e7c7a4510094500a7c8",
+  "size": 4136788,
   "rollout": 1.0,
   "min_shell": 1,
   "notes": [
-   "New: Trade → Trends. What rises and what falls among the goods that sell every day, with a chart for each, sorting by any column, and filters by kind of goods.",
-   "It picks what is worth buying now to sell in a week or two: how many, at what price, and above what price the sale pays back. A line under the picks says how the same rule did on your own scans."
+   "The addon gets one window: /wfd, the button at the minimap, the AddOns list at the minimap or a key. Pages Now, Farm, Runs, Craft, Lists, Tools and Settings.",
+   "Farm sessions start by themselves at the first loot outside towns, pause after 5 minutes without loot and end after 20; gold and experience an hour show in Titan Panel and in the minimap button's tooltip.",
+   "Coins from corpses are counted with auto loot too.",
+   "Farm → Spots is more honest and finds more: valuable drops of unknown chance, open-world elites, and the dungeons you ran."
   ]
  },
  "revoked": []

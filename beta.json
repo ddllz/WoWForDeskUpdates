@@ -1,16 +1,19 @@
 {
  "format": 1,
  "channel": "beta",
- "issued": 1795104770,
+ "issued": 1795107538,
  "app": {
-  "version": "0.3.5",
-  "file": "app-0.3.5.wfd",
-  "sha256": "993350ee84e8380b505d7790ea1a1631eeeb727e0f889eca15cc7a10133083d5",
-  "size": 4136690,
+  "version": "0.3.6",
+  "file": "app-0.3.6.wfd",
+  "sha256": "ac9ca8eb3f1dcf985a8dfe9504b041e30610541799f07e7c7a4510094500a7c8",
+  "size": 4136788,
   "rollout": 1.0,
   "min_shell": 1,
   "notes": [
-   "Farm → Spots: valuable drops whose chance nobody knows (essences, rare hides) get a list of their own with what they would bring at 1–5% of kills; open-world elites come in, marked; and the dungeons you ran show gold and experience an hour inside."
+   "The addon gets one window: /wfd, the button at the minimap, the AddOns list at the minimap or a key. Pages Now, Farm, Runs, Craft, Lists, Tools and Settings.",
+   "Farm sessions start by themselves at the first loot outside towns, pause after 5 minutes without loot and end after 20; gold and experience an hour show in Titan Panel and in the minimap button's tooltip.",
+   "Coins from corpses are counted with auto loot too.",
+   "Farm → Spots is more honest and finds more: valuable drops of unknown chance, open-world elites, and the dungeons you ran."
   ]
  },
  "revoked": []
