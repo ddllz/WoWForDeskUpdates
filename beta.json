@@ -1,16 +1,18 @@
 {
  "format": 1,
  "channel": "beta",
- "issued": 1795100791,
+ "issued": 1795101696,
  "app": {
-  "version": "0.3.3",
-  "file": "app-0.3.3.wfd",
-  "sha256": "0fcea3b8bf2a540211ec607e7f326ef5b825cf6a633704e417b26fd5c5bf0d4a",
-  "size": 4052288,
+  "version": "0.3.4",
+  "file": "app-0.3.4.wfd",
+  "sha256": "adf36da268c3c7d8d3753ae151ede7b6485f9cc43d903409d42791de97f55ab8",
+  "size": 4101594,
   "rollout": 1.0,
   "min_shell": 1,
   "notes": [
-   "Titan Panel: the icon and two numbers, gold and experience an hour; the time, the next level, the spot and the rest are in the tooltip. Nothing is written while there is no farm session."
+   "Farm → Spots is more honest: skins are no longer priced by one elite's hide, greys and gear count at the vendor, your own speed comes only from real farming and corrects the estimate for every mob, and loot on a falling market is valued at today's price.",
+   "Below level 60 the spots sort by gold, by experience, or by both.",
+   "Sales per day count a lot bought in part as only the part bought."
   ]
  },
  "revoked": []
