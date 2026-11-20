@@ -1,16 +1,16 @@
 {
  "format": 1,
  "channel": "beta",
- "issued": 1795187394,
+ "issued": 1795190591,
  "app": {
-  "version": "0.6.3",
-  "file": "app-0.6.3.wfd",
-  "sha256": "82fcf7903699a2d298d0d7bad79aca57e4d6671c47e352ca86eb6e2a30debcf0",
-  "size": 6005430,
+  "version": "0.6.4",
+  "file": "app-0.6.4.wfd",
+  "sha256": "fb53f9790254a09d50607360e95db3007ae84eaa7cef9debac756c6b4df949bc",
+  "size": 6022714,
   "rollout": 1.0,
   "min_shell": 1,
   "notes": [
-   "Character → Tier sets: Tier 0 and Tier 0.5 of your class, piece by piece, with a tick on what you have, where each piece drops or which quest gives it, and the missing pieces by dungeon. The icons on top show any class."
+   "Tier sets are lists now, a row a piece, Tier 0 beside Tier 0.5. A press on a piece says how to get it: the dungeon with its levels and where it stands, the boss, the way in with a map of the entrance; for a Tier 0.5 piece the quest, its place in the chain and the Tier 0 piece it asks for."
   ]
  },
  "revoked": []
