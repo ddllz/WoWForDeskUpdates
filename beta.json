@@ -1,19 +1,16 @@
 {
  "format": 1,
  "channel": "beta",
- "issued": 1795172777,
+ "issued": 1795173831,
  "app": {
-  "version": "0.6.1",
-  "file": "app-0.6.1.wfd",
-  "sha256": "7d438f75f2dfd5fa8dcd3d5a861e52260a3006d6725876109ec4240eba32f81d",
-  "size": 5971255,
+  "version": "0.6.2",
+  "file": "app-0.6.2.wfd",
+  "sha256": "2cfde14b03176b3a9e535cdae5dc0205337fa44da982780fd53f2840a3a2c097",
+  "size": 5973051,
   "rollout": 1.0,
   "min_shell": 1,
   "notes": [
-   "Achievements redrawn as the game's own achievement window: categories with icons on the left, the page on the right. Legacy shows the reward track on top, the next points as rows that open their steps, a tile for every class and profession with its three ranks. Statistics follow the game's categories, with a summary first.",
-   "Farm: an opened spot is tidy again - the numbers as tiles, the loot as a table with its button beside the row, the map on the right. Mount Hyjal, Riverglades and the other new zones now have their maps, with the spawns.",
-   "Tables no longer stick out of their frames in a narrow window or in Russian.",
-   "Farm no longer promises a mage 100 000 experience an hour: pulls of several mobs are counted carefully until your own fights show what you do."
+   "A character made after the program was installed (levels from 1) no longer breaks Home, the Journal and Leveling with “The page could not be drawn”."
   ]
  },
  "revoked": []
