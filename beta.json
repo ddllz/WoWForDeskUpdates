@@ -1,16 +1,17 @@
 {
  "format": 1,
  "channel": "beta",
- "issued": 1795132079,
+ "issued": 1795133242,
  "app": {
-  "version": "0.5.3",
-  "file": "app-0.5.3.wfd",
-  "sha256": "a19fa688a7941f22ecbb9aaa401dd12de7797d54f02ef8d1470fc381c2941fdd",
-  "size": 4616907,
+  "version": "0.5.4",
+  "file": "app-0.5.4.wfd",
+  "sha256": "3593da1c41f6c955db5d5d7a55458f70263a5d6240989e66ef362da5ad19b80a",
+  "size": 4629028,
   "rollout": 1.0,
   "min_shell": 1,
   "notes": [
-   "Prices and sales of your realm from public pricing data: a new player sees real prices and how much of each item sells a day from the first start, not after days of scanning. Your own scans and measured sales still come first. Settings → Calculations switches it off; Settings → Game and data says what was fetched (pricing data from TradeSkillMaster)."
+   "Farm: hide a mob you will not farm, or stop counting an item you will not sell on the auction house (it counts at the vendor price then). Both are under \"Set aside\" below the list, where each can come back; the game's spot list follows.",
+   "Items that sell under ten a day count only half of those sales: the lots already listed take the rest. The open spot says how many such an item sells a day."
   ]
  },
  "revoked": []
