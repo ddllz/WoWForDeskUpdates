@@ -1,18 +1,17 @@
 {
  "format": 1,
  "channel": "stable",
- "issued": 1795168054,
+ "issued": 1795169914,
  "app": {
-  "version": "0.5.9",
-  "file": "app-0.5.9.wfd",
-  "sha256": "c388382a62b04f05e64c965f0c354cbbffa9f33b01db78f87e1d9ceadeb06566",
-  "size": 4874423,
+  "version": "0.6.0",
+  "file": "app-0.6.0.wfd",
+  "sha256": "8bf5636ac46b7e62a5ddd33e59d5d28a4ad468ae97e2ea796da868edba084de6",
+  "size": 4978281,
   "rollout": 1.0,
   "min_shell": 1,
   "notes": [
-   "Character → Statistics: everything the game counts for your character from its first day - quests, deaths, kills, gold, travel and more - with the change over the last seven days, a small graph of two weeks and the sum over all your characters. A box finds a statistic by its name.",
-   "Character → Legacy: your Legacy points, every challenge with how far it is, the nearest ones on top, and the zones this character has explored.",
-   "The addon has a new file: restart the game once after the update, then /reload."
+   "A new section, Achievements. Legacy now advises: the fastest Legacy points your account can take, each with the time at your own pace, the gold and the steps - a class to the next level, a profession to the next rank on a character with a free slot or on a new one, the dungeons of a Spelunker list alone on your highest character. Below them, all 65 challenges with what is done and what each asks for.",
+   "Statistics moved here and got a summary: where your gold came from and where it went, your auction house record, how you die."
   ]
  },
  "revoked": []
