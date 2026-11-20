@@ -1,16 +1,18 @@
 {
  "format": 1,
  "channel": "beta",
- "issued": 1795166343,
+ "issued": 1795168054,
  "app": {
-  "version": "0.5.8",
-  "file": "app-0.5.8.wfd",
-  "sha256": "8a48023be10571c73a5585510a3ca2507d5aee59d85d35783530e30f7390474a",
-  "size": 4812268,
+  "version": "0.5.9",
+  "file": "app-0.5.9.wfd",
+  "sha256": "c388382a62b04f05e64c965f0c354cbbffa9f33b01db78f87e1d9ceadeb06566",
+  "size": 4874423,
   "rollout": 1.0,
   "min_shell": 1,
   "notes": [
-   "The program speaks Russian: the RU button beside the theme switch at the bottom of the left column. Names from the game - items, mobs, zones, quests - stay as the game names them. EN brings English back."
+   "Character → Statistics: everything the game counts for your character from its first day - quests, deaths, kills, gold, travel and more - with the change over the last seven days, a small graph of two weeks and the sum over all your characters. A box finds a statistic by its name.",
+   "Character → Legacy: your Legacy points, every challenge with how far it is, the nearest ones on top, and the zones this character has explored.",
+   "The addon has a new file: restart the game once after the update, then /reload."
   ]
  },
  "revoked": []
