@@ -1,16 +1,16 @@
 {
  "format": 1,
  "channel": "stable",
- "issued": 1795140177,
+ "issued": 1795166343,
  "app": {
-  "version": "0.5.7",
-  "file": "app-0.5.7.wfd",
-  "sha256": "3c7d10990e06417b651a0bc36e707167d5f08589d8307d202feeff936c6285a8",
-  "size": 4756998,
+  "version": "0.5.8",
+  "file": "app-0.5.8.wfd",
+  "sha256": "8a48023be10571c73a5585510a3ca2507d5aee59d85d35783530e30f7390474a",
+  "size": 4812268,
   "rollout": 1.0,
   "min_shell": 1,
   "notes": [
-   "The item's panel has tabs under its name: Auction house first; Craft when it is crafted - the recipe and its skill, who of your characters can make it, every reagent with its price now, whether crafting beats buying, and a button that puts the reagents on your shopping list in the game; Where it comes from - the quest with every quest before it, the boss and the chance, the reputation, the vendor."
+   "The program speaks Russian: the RU button beside the theme switch at the bottom of the left column. Names from the game - items, mobs, zones, quests - stay as the game names them. EN brings English back."
   ]
  },
  "revoked": []
