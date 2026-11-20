@@ -1,16 +1,17 @@
 {
  "format": 1,
  "channel": "beta",
- "issued": 1795134627,
+ "issued": 1795135825,
  "app": {
-  "version": "0.5.5",
-  "file": "app-0.5.5.wfd",
-  "sha256": "3478a27f28a50039f0fb05d7ecda9373c7f077eaedbb92962f013125edc2affa",
-  "size": 4673337,
+  "version": "0.5.6",
+  "file": "app-0.5.6.wfd",
+  "sha256": "7baacbd9b451ff4632b7ac576c04f15dc3f2e5b82296ef82eb1cf42d82a6d0dc",
+  "size": 4717931,
   "rollout": 1.0,
   "min_shell": 1,
   "notes": [
-   "Farm counts herbs and ore around each camp for a character with Herbalism or Mining: what grows near, which of it your skill gathers, about how many gathers an hour fit beside the fighting and what they bring. The switch \"Herbs, ore\" beside Skinning turns it on or off; for a character without the profession it shows what it would add."
+   "Enchants in the search box: find one by its name, its effect or its libram, and see what it costs to put on now in reagents at your auction house. Its panel lists every reagent with its price, how the formula is learned, and a button that puts the reagents on your shopping list in the game (at the auction house: WoWForDesk → Buy).",
+   "Best in slot shows what each slot's enchant costs now, with the same button."
   ]
  },
  "revoked": []
