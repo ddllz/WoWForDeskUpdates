@@ -1,17 +1,19 @@
 {
  "format": 1,
  "channel": "beta",
- "issued": 1795169914,
+ "issued": 1795172777,
  "app": {
-  "version": "0.6.0",
-  "file": "app-0.6.0.wfd",
-  "sha256": "8bf5636ac46b7e62a5ddd33e59d5d28a4ad468ae97e2ea796da868edba084de6",
-  "size": 4978281,
+  "version": "0.6.1",
+  "file": "app-0.6.1.wfd",
+  "sha256": "7d438f75f2dfd5fa8dcd3d5a861e52260a3006d6725876109ec4240eba32f81d",
+  "size": 5971255,
   "rollout": 1.0,
   "min_shell": 1,
   "notes": [
-   "A new section, Achievements. Legacy now advises: the fastest Legacy points your account can take, each with the time at your own pace, the gold and the steps - a class to the next level, a profession to the next rank on a character with a free slot or on a new one, the dungeons of a Spelunker list alone on your highest character. Below them, all 65 challenges with what is done and what each asks for.",
-   "Statistics moved here and got a summary: where your gold came from and where it went, your auction house record, how you die."
+   "Achievements redrawn as the game's own achievement window: categories with icons on the left, the page on the right. Legacy shows the reward track on top, the next points as rows that open their steps, a tile for every class and profession with its three ranks. Statistics follow the game's categories, with a summary first.",
+   "Farm: an opened spot is tidy again - the numbers as tiles, the loot as a table with its button beside the row, the map on the right. Mount Hyjal, Riverglades and the other new zones now have their maps, with the spawns.",
+   "Tables no longer stick out of their frames in a narrow window or in Russian.",
+   "Farm no longer promises a mage 100 000 experience an hour: pulls of several mobs are counted carefully until your own fights show what you do."
   ]
  },
  "revoked": []
