@@ -1,17 +1,16 @@
 {
  "format": 1,
  "channel": "stable",
- "issued": 1795135825,
+ "issued": 1795140177,
  "app": {
-  "version": "0.5.6",
-  "file": "app-0.5.6.wfd",
-  "sha256": "7baacbd9b451ff4632b7ac576c04f15dc3f2e5b82296ef82eb1cf42d82a6d0dc",
-  "size": 4717931,
+  "version": "0.5.7",
+  "file": "app-0.5.7.wfd",
+  "sha256": "3c7d10990e06417b651a0bc36e707167d5f08589d8307d202feeff936c6285a8",
+  "size": 4756998,
   "rollout": 1.0,
   "min_shell": 1,
   "notes": [
-   "Enchants in the search box: find one by its name, its effect or its libram, and see what it costs to put on now in reagents at your auction house. Its panel lists every reagent with its price, how the formula is learned, and a button that puts the reagents on your shopping list in the game (at the auction house: WoWForDesk → Buy).",
-   "Best in slot shows what each slot's enchant costs now, with the same button."
+   "The item's panel has tabs under its name: Auction house first; Craft when it is crafted - the recipe and its skill, who of your characters can make it, every reagent with its price now, whether crafting beats buying, and a button that puts the reagents on your shopping list in the game; Where it comes from - the quest with every quest before it, the boss and the chance, the reputation, the vendor."
   ]
  },
  "revoked": []
