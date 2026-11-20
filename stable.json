@@ -1,16 +1,16 @@
 {
  "format": 1,
  "channel": "stable",
- "issued": 1795173831,
+ "issued": 1795187394,
  "app": {
-  "version": "0.6.2",
-  "file": "app-0.6.2.wfd",
-  "sha256": "2cfde14b03176b3a9e535cdae5dc0205337fa44da982780fd53f2840a3a2c097",
-  "size": 5973051,
+  "version": "0.6.3",
+  "file": "app-0.6.3.wfd",
+  "sha256": "82fcf7903699a2d298d0d7bad79aca57e4d6671c47e352ca86eb6e2a30debcf0",
+  "size": 6005430,
   "rollout": 1.0,
   "min_shell": 1,
   "notes": [
-   "A character made after the program was installed (levels from 1) no longer breaks Home, the Journal and Leveling with “The page could not be drawn”."
+   "Character → Tier sets: Tier 0 and Tier 0.5 of your class, piece by piece, with a tick on what you have, where each piece drops or which quest gives it, and the missing pieces by dungeon. The icons on top show any class."
   ]
  },
  "revoked": []
