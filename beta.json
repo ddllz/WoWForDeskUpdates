@@ -1,16 +1,17 @@
 {
  "format": 1,
  "channel": "beta",
- "issued": 1795190591,
+ "issued": 1795198213,
  "app": {
-  "version": "0.6.4",
-  "file": "app-0.6.4.wfd",
-  "sha256": "fb53f9790254a09d50607360e95db3007ae84eaa7cef9debac756c6b4df949bc",
-  "size": 6022714,
+  "version": "0.6.5",
+  "file": "app-0.6.5.wfd",
+  "sha256": "4aa7293416ae56b8a95e7ea25d0e5913736bb98489a95328d1f291f7056ba675",
+  "size": 6024405,
   "rollout": 1.0,
   "min_shell": 1,
   "notes": [
-   "Tier sets are lists now, a row a piece, Tier 0 beside Tier 0.5. A press on a piece says how to get it: the dungeon with its levels and where it stands, the boss, the way in with a map of the entrance; for a Tier 0.5 piece the quest, its place in the chain and the Tier 0 piece it asks for."
+   "Craft → Level up answers at once: choosing a profession no longer waits, and Cheapest / Fastest is one step instead of three.",
+   "The profession buttons are a proper size again (they shrank in 0.6.1), as are the other round buttons."
   ]
  },
  "revoked": []
