@@ -1,17 +1,16 @@
 {
  "format": 1,
  "channel": "beta",
- "issued": 1795133242,
+ "issued": 1795134627,
  "app": {
-  "version": "0.5.4",
-  "file": "app-0.5.4.wfd",
-  "sha256": "3593da1c41f6c955db5d5d7a55458f70263a5d6240989e66ef362da5ad19b80a",
-  "size": 4629028,
+  "version": "0.5.5",
+  "file": "app-0.5.5.wfd",
+  "sha256": "3478a27f28a50039f0fb05d7ecda9373c7f077eaedbb92962f013125edc2affa",
+  "size": 4673337,
   "rollout": 1.0,
   "min_shell": 1,
   "notes": [
-   "Farm: hide a mob you will not farm, or stop counting an item you will not sell on the auction house (it counts at the vendor price then). Both are under \"Set aside\" below the list, where each can come back; the game's spot list follows.",
-   "Items that sell under ten a day count only half of those sales: the lots already listed take the rest. The open spot says how many such an item sells a day."
+   "Farm counts herbs and ore around each camp for a character with Herbalism or Mining: what grows near, which of it your skill gathers, about how many gathers an hour fit beside the fighting and what they bring. The switch \"Herbs, ore\" beside Skinning turns it on or off; for a character without the profession it shows what it would add."
   ]
  },
  "revoked": []
