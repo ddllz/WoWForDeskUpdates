@@ -1,17 +1,18 @@
 {
  "format": 1,
  "channel": "beta",
- "issued": 1795280999,
+ "issued": 1795283957,
  "app": {
-  "version": "0.6.7",
-  "file": "app-0.6.7.wfd",
-  "sha256": "8ad612b71149c4b115b5b368b423d1fc8c3eeb1fb49617c67a65f953b0d9c270",
-  "size": 6052074,
+  "version": "0.6.8",
+  "file": "app-0.6.8.wfd",
+  "sha256": "77e16e13df41afc63ec8cdf1310290996ff12ec0eb74e07b604f6ae78babe68e",
+  "size": 6066508,
   "rollout": 1.0,
   "min_shell": 1,
   "notes": [
-   "Achievements → Legacy opens again on an account where almost every profession is already taken (it said “list index out of range”). The new-character advice now works with one missing profession too.",
-   "Legacy counts your points from the challenges you have done; the game's own counter said 0 of 130."
+   "Leveling → Class is redone. Class quests are rows on three tabs - Now, Coming up (by the level they open at) and Done - with the level in the quest log's colours and where to go. A press opens the side panel: a map with the quest giver, the steps of the chain, what to bring and from whom, a /way line. The class trainer's list with prices stands beside the quests.",
+   "The class quest list is right now: no ordinary starting-zone quests, a quest several trainers give is one row, a high-level quest that can be picked up early waits for its level, and a quest started by an item says which.",
+   "The hunter's pet on that page is in Russian too."
   ]
  },
  "revoked": []
