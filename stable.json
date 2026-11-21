@@ -1,17 +1,18 @@
 {
  "format": 1,
  "channel": "stable",
- "issued": 1795198213,
+ "issued": 1795276568,
  "app": {
-  "version": "0.6.5",
-  "file": "app-0.6.5.wfd",
-  "sha256": "4aa7293416ae56b8a95e7ea25d0e5913736bb98489a95328d1f291f7056ba675",
-  "size": 6024405,
+  "version": "0.6.6",
+  "file": "app-0.6.6.wfd",
+  "sha256": "9ae8b665571a4af75607339be16b22134761fbdaa5bf4b44b155f4efeb5ca5a9",
+  "size": 6051575,
   "rollout": 1.0,
   "min_shell": 1,
   "notes": [
-   "Craft → Level up answers at once: choosing a profession no longer waits, and Cheapest / Fastest is one step instead of three.",
-   "The profession buttons are a proper size again (they shrank in 0.6.1), as are the other round buttons."
+   "Characters no longer show up twice. The game update of 21 November sometimes gives no realm name at login, so each character got a second record and the gold of both was counted. The program joins them back into one (the newer data wins), and the addon no longer makes such records.",
+   "Home: every character card starts folded - who it is, gold, goods, how much is to do and the next step. “Show more” opens one, and the page remembers it.",
+   "Undead characters are called Undead, not by the game's inner name."
   ]
  },
  "revoked": []
