@@ -1,18 +1,17 @@
 {
  "format": 1,
  "channel": "stable",
- "issued": 1795276568,
+ "issued": 1795280999,
  "app": {
-  "version": "0.6.6",
-  "file": "app-0.6.6.wfd",
-  "sha256": "9ae8b665571a4af75607339be16b22134761fbdaa5bf4b44b155f4efeb5ca5a9",
-  "size": 6051575,
+  "version": "0.6.7",
+  "file": "app-0.6.7.wfd",
+  "sha256": "8ad612b71149c4b115b5b368b423d1fc8c3eeb1fb49617c67a65f953b0d9c270",
+  "size": 6052074,
   "rollout": 1.0,
   "min_shell": 1,
   "notes": [
-   "Characters no longer show up twice. The game update of 21 November sometimes gives no realm name at login, so each character got a second record and the gold of both was counted. The program joins them back into one (the newer data wins), and the addon no longer makes such records.",
-   "Home: every character card starts folded - who it is, gold, goods, how much is to do and the next step. “Show more” opens one, and the page remembers it.",
-   "Undead characters are called Undead, not by the game's inner name."
+   "Achievements → Legacy opens again on an account where almost every profession is already taken (it said “list index out of range”). The new-character advice now works with one missing profession too.",
+   "Legacy counts your points from the challenges you have done; the game's own counter said 0 of 130."
   ]
  },
  "revoked": []
