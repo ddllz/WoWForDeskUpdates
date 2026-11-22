@@ -1,18 +1,23 @@
 {
  "format": 1,
  "channel": "stable",
- "issued": 1795283957,
+ "issued": 1795362288,
  "app": {
-  "version": "0.6.8",
-  "file": "app-0.6.8.wfd",
-  "sha256": "77e16e13df41afc63ec8cdf1310290996ff12ec0eb74e07b604f6ae78babe68e",
-  "size": 6066508,
+  "version": "0.6.9",
+  "file": "app-0.6.9.wfd",
+  "sha256": "6ba141baa83fac09328b662e0b2e0a3c9572d411d8d6409e284a88abfbd077e4",
+  "size": 6565885,
   "rollout": 1.0,
   "min_shell": 1,
   "notes": [
-   "Leveling → Class is redone. Class quests are rows on three tabs - Now, Coming up (by the level they open at) and Done - with the level in the quest log's colours and where to go. A press opens the side panel: a map with the quest giver, the steps of the chain, what to bring and from whom, a /way line. The class trainer's list with prices stands beside the quests.",
-   "The class quest list is right now: no ordinary starting-zone quests, a quest several trainers give is one row, a high-level quest that can be picked up early waits for its level, and a quest started by an item says which.",
-   "The hunter's pet on that page is in Russian too."
+   "Character → Best in slot is now the BiS planner. The set stands like the character window: the slots on both sides and its stats in the middle - attributes, attack power, crit, hit against its cap, haste, spell power, mana per 5 - with raid buffs on or off and each stat against what you wear now. After a change the stats show what moved.",
+   "Press a slot for the items that fit it: the list's ones and any item of the item base, by name, each with what it adds or takes away and a score by your spec's weights; where an item comes from opens under it. Enchants have their own panel from the enchant line of a slot.",
+   "A two-hand weapon leaves the off hand empty. Hunters choose their ammunition.",
+   "Set bonuses: which ones work with the set and which pieces you still need.",
+   "Keep a set under a name, make it the plan again later, and compare your set with the lists and your other sets, stat by stat. Any class can be planned.",
+   "Below the set: where it all comes from, grouped by dungeon, quests, crafts, reputation and vendors, with the enchants.",
+   "Hover any item for its stats, even before the game or the web has described it.",
+   "In the game (addon 0.8.2) the tooltip of an item of your set names its slot and the sets it belongs to."
   ]
  },
  "revoked": []
