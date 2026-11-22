@@ -1,23 +1,19 @@
 {
  "format": 1,
  "channel": "beta",
- "issued": 1795362288,
+ "issued": 1795363838,
  "app": {
-  "version": "0.6.9",
-  "file": "app-0.6.9.wfd",
-  "sha256": "6ba141baa83fac09328b662e0b2e0a3c9572d411d8d6409e284a88abfbd077e4",
-  "size": 6565885,
+  "version": "0.6.10",
+  "file": "app-0.6.10.wfd",
+  "sha256": "7e7e4bbd9607a7cbf84d0860aa3795ec9bdd46cc02d9bf98b2de3ad46a857d0b",
+  "size": 6606785,
   "rollout": 1.0,
   "min_shell": 1,
   "notes": [
-   "Character → Best in slot is now the BiS planner. The set stands like the character window: the slots on both sides and its stats in the middle - attributes, attack power, crit, hit against its cap, haste, spell power, mana per 5 - with raid buffs on or off and each stat against what you wear now. After a change the stats show what moved.",
-   "Press a slot for the items that fit it: the list's ones and any item of the item base, by name, each with what it adds or takes away and a score by your spec's weights; where an item comes from opens under it. Enchants have their own panel from the enchant line of a slot.",
-   "A two-hand weapon leaves the off hand empty. Hunters choose their ammunition.",
-   "Set bonuses: which ones work with the set and which pieces you still need.",
-   "Keep a set under a name, make it the plan again later, and compare your set with the lists and your other sets, stat by stat. Any class can be planned.",
-   "Below the set: where it all comes from, grouped by dungeon, quests, crafts, reputation and vendors, with the enchants.",
-   "Hover any item for its stats, even before the game or the web has described it.",
-   "In the game (addon 0.8.2) the tooltip of an item of your set names its slot and the sets it belongs to."
+   "BiS planner: every item shows small icons for where it comes from - dungeon, raid, quest, craft, reputation, vendor, PvP, a drop - with a ring for how hard it is; hover an icon for the place.",
+   "What an item adds or takes away is shorter: a score by your spec's weights and the three changes that matter most; hover \"+N\" for all of them. Losses are orange, not red.",
+   "Your set beside another is now icons: the stats that differ, and every slot side by side - press an item of the other set to take it into yours. Every stat is one press away.",
+   "The item's set no longer stretches the head of the item panel."
   ]
  },
  "revoked": []
