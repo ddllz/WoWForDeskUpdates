@@ -1,19 +1,21 @@
 {
  "format": 1,
  "channel": "beta",
- "issued": 1795363838,
+ "issued": 1795637691,
  "app": {
-  "version": "0.6.10",
-  "file": "app-0.6.10.wfd",
-  "sha256": "7e7e4bbd9607a7cbf84d0860aa3795ec9bdd46cc02d9bf98b2de3ad46a857d0b",
-  "size": 6606785,
+  "version": "0.6.11",
+  "file": "app-0.6.11.wfd",
+  "sha256": "ccf1efdd9789acd1366aa0b70d22e2e27df373a2f107f1067da74d72c2af847e",
+  "size": 6616159,
   "rollout": 1.0,
   "min_shell": 1,
   "notes": [
-   "BiS planner: every item shows small icons for where it comes from - dungeon, raid, quest, craft, reputation, vendor, PvP, a drop - with a ring for how hard it is; hover an icon for the place.",
-   "What an item adds or takes away is shorter: a score by your spec's weights and the three changes that matter most; hover \"+N\" for all of them. Losses are orange, not red.",
-   "Your set beside another is now icons: the stats that differ, and every slot side by side - press an item of the other set to take it into yours. Every stat is one press away.",
-   "The item's set no longer stretches the head of the item panel."
+   "Gear upgrades from the auction house work after a scan again. The game reads the scanned items many times faster (it only reads each item's tooltip now: the program counts every gear scale itself), and a new scan or a new level no longer throws away what was read before. The chat says how long it takes and when the items are ready.",
+   "If the game has not read every scanned item yet, the slot's panel says how many are left.",
+   "A copy button next to every item on the auction house list: one press puts its name on the clipboard for the game's auction house search.",
+   "The slot's panel can show items up to your level only, or two levels above it too; the choice is remembered. The panel is wider and its choices stand side by side.",
+   "New stat weights for leveling: priest (the wand counts most), Elemental and Enhancement shaman; Balance druid at 60.",
+   "Addon 0.8.3; the full scan of the auction house goes faster too."
   ]
  },
  "revoked": []
