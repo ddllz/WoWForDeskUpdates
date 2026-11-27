@@ -1,17 +1,20 @@
 {
  "format": 1,
  "channel": "beta",
- "issued": 1795749825,
+ "issued": 1795783349,
  "app": {
-  "version": "0.6.18",
-  "file": "app-0.6.18.wfd",
-  "sha256": "2c58edb5442acf34b219e4f4f72e08757e0a5c7ad1e9ac875968c2ae273f0ba1",
-  "size": 6933405,
+  "version": "0.6.19",
+  "file": "app-0.6.19.wfd",
+  "sha256": "eb7491be6d6046e2dba4e66424a87af89153843d155ef862d6fef041948f6371",
+  "size": 6938977,
   "rollout": 1.0,
   "min_shell": 1,
   "notes": [
-   "Greater Mageblood Elixir is weighed as mana, not as one more elixir: it is on the lists of casters and hunters as well as healers, and the basket takes it when its price allows.",
-   "The item panel says when somebody moved the price - the stock bought out and listed dearer, a price far above its week - with the same words as the Invest pages."
+   "What you hold of the raid goods is part of the plan: the plan is a share of your gold and those goods together, and a basket bought in full is no longer followed by a second one for the gold that is left. The page says how much is in raid goods already, and that the plan is bought when it is.",
+   "No crumbs in the basket: a purchase of a few pieces, or of what is left of the gold, is not suggested.",
+   "The list “Raids” is made equal to the basket: a good that left the basket leaves the list, the count is what to hold in all, and the page says when the list in the game was made from an earlier basket.",
+   "A page that waits for its data shows its name, its tabs and grey bars at once: a click no longer looks as if nothing happened.",
+   "The game: the count of the Buy checklist has room for three digits on both sides (addon 0.8.4)."
   ]
  },
  "revoked": []
