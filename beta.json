@@ -1,17 +1,18 @@
 {
  "format": 1,
  "channel": "beta",
- "issued": 1795745489,
+ "issued": 1795746666,
  "app": {
-  "version": "0.6.15",
-  "file": "app-0.6.15.wfd",
-  "sha256": "4a81d9e6d4964dbd689327ed0389e69995fac8ad5947a1335595342780f75e0a",
-  "size": 6925761,
+  "version": "0.6.16",
+  "file": "app-0.6.16.wfd",
+  "sha256": "e20204789ee24cea12fb01235a8a083b74ded9c69e51b8d6ee99d2052370b3d1",
+  "size": 6931486,
   "rollout": 1.0,
   "min_shell": 1,
   "notes": [
-   "Invest → Plan: the basket no longer puts healing potions first. In a raid they are the emergency potion and share a cooldown with mana potions, which healers and casters drink all evening. A good's place now follows how much one raid's evening needs of it against what sells a day and what is on sale; how many roles carry it no longer counts by itself. Major Mana Potion leads the basket where the market is small against a raid's need.",
-   "Raids: a raid evening by role counts healing potions as raiders use them - a few for tanks and melee, one for the rest."
+   "Invest → Raids: a new block, What raiders really drank - measured in raid logs of the first week of the last Classic's raids: fire protection potions by most raiders, mana potions ten times more often than healing potions, flasks and elixirs by a few in a hundred.",
+   "The basket follows it. Every role now carries fire protection; a good's raid need is weighed by how much of its kind was really drunk; and a good a raid day cannot move - a raid needs a handful while a thousand sell a day - is left out with that reason. Healing potions leave the basket; mana potions and fire protection lead it.",
+   "The case for and against a rise names the measured numbers and the size of the player base."
   ]
  },
  "revoked": []
