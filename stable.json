@@ -1,18 +1,18 @@
 {
  "format": 1,
  "channel": "stable",
- "issued": 1795746666,
+ "issued": 1795748117,
  "app": {
-  "version": "0.6.16",
-  "file": "app-0.6.16.wfd",
-  "sha256": "e20204789ee24cea12fb01235a8a083b74ded9c69e51b8d6ee99d2052370b3d1",
-  "size": 6931486,
+  "version": "0.6.17",
+  "file": "app-0.6.17.wfd",
+  "sha256": "42ce910271dd041841d5f6d84d6abcecc8f1fa55aedb7e855bf34c2dabc5cfd9",
+  "size": 6934113,
   "rollout": 1.0,
   "min_shell": 1,
   "notes": [
-   "Invest → Raids: a new block, What raiders really drank - measured in raid logs of the first week of the last Classic's raids: fire protection potions by most raiders, mana potions ten times more often than healing potions, flasks and elixirs by a few in a hundred.",
-   "The basket follows it. Every role now carries fire protection; a good's raid need is weighed by how much of its kind was really drunk; and a good a raid day cannot move - a raid needs a handful while a thousand sell a day - is left out with that reason. Healing potions leave the basket; mana potions and fire protection lead it.",
-   "The case for and against a rise names the measured numbers and the size of the player base."
+   "Invest → Raids: a new block, How fast mana runs out here - what each class spends and gets back a second in simulated boss fights of this game, and what it is short of a minute. It is marked as a simulation: a direction, not a measurement.",
+   "Mana on the role lists: runes for casters, healers and hunters, the cheaper mana potion beside the major one, mana potions for a third of the melee. Dark Rune and Superior Mana Potion are raid goods now: the basket weighs them and the portfolio tracks them.",
+   "The major mana potion's raid need sits between what the logs measured and what the simulation says."
   ]
  },
  "revoked": []
