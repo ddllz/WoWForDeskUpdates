@@ -1,19 +1,21 @@
 {
  "format": 1,
  "channel": "stable",
- "issued": 1795738114,
+ "issued": 1795742206,
  "app": {
-  "version": "0.6.12",
-  "file": "app-0.6.12.wfd",
-  "sha256": "6dc2bc430f928ac786ff69165320d9437dc6b7c708837f4313994db1290b1d10",
-  "size": 6706078,
+  "version": "0.6.13",
+  "file": "app-0.6.13.wfd",
+  "sha256": "e28a653d3409031e04747b00aa1e9c65f4ef030516b5a39fba5fa6a429a3adf5",
+  "size": 6869099,
   "rollout": 1.0,
   "min_shell": 1,
   "notes": [
-   "Farm → Ways to earn: the ways to earn gold that players show in videos and write in guides and forums, each one checked against your own auction house and characters. You see the source's gold an hour next to the program's estimate for your character (and at the source's own kills an hour), the items with their price now, the week's change and how many sell a day, which profession cooldowns pay at today's prices and who of your characters can run them, and which farms were cut by a hotfix or bring bans.",
-   "Trade → Trends starts with a goal: type how much gold you want, and see what you have, how much a day it takes before the raids open on 9 December, the cooldowns your characters can run until then, your best checked farm and the hours it takes, and what is worth holding with the gold you have.",
-   "Trends: a new table of the goods raids burn - flasks, fire protection, elixirs and the herbs behind them - with the price now, the top of their first week and how much you would lose if the price fell to the merchant's.",
-   "Trends reads more plainly: what to buy now to sell in a week, what to stock before the raids, and the whole market, each under its own heading; more of it is in Russian."
+   "A new section, Invest, takes the place of Trade → Trends. It has four pages instead of one long one.",
+   "Plan: your goal in gold and a basket of goods to buy before the raids. Type a sum (700 gold, say) and choose Careful, Balanced or Bold: the basket says what to buy, how many and up to what price, keeps a part in the purse, lets no item and no kind of goods take too large a share, and buys no more of anything than the market sells back in a raid week. It shows what the basket brings if prices stay, rise by a quarter or by a half, and the most it can lose. One press puts it on a shopping list. Below it, the steps from gold to goods and back.",
+   "Raids: a raid evening by role - tank, caster, healer, melee, hunter - at your prices; what every raid good is made of and how much the crafter keeps; the calendar; and the week of a raid good, which will show its cheap and its dear day once there are weeks enough.",
+   "Rising: the goods that rise steadily, to buy now and sell in a week or two.",
+   "Market: a price index by kind of goods, the stock on sale, the gold traded a day, the biggest markets, and everything that sells every day.",
+   "Prices somebody moves: the program now sees when the stock of an item was bought out and listed again higher, when a price stands far above its own week, when it jumps from day to day, and when a few bait lots sit far under the rest. Such goods are left out of the basket and of Rising, and Market lists them with what followed such moves on your own scans. If you hold one, it says to sell into the jump."
   ]
  },
  "revoked": []
