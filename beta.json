@@ -1,21 +1,20 @@
 {
  "format": 1,
  "channel": "beta",
- "issued": 1795742214,
+ "issued": 1795744445,
  "app": {
-  "version": "0.6.13",
-  "file": "app-0.6.13.wfd",
-  "sha256": "e28a653d3409031e04747b00aa1e9c65f4ef030516b5a39fba5fa6a429a3adf5",
-  "size": 6869099,
+  "version": "0.6.14",
+  "file": "app-0.6.14.wfd",
+  "sha256": "0cc55d98542136faece05c71f0f07a64f0bbc529ac7cbf794c63f1c5f77502c8",
+  "size": 6923310,
   "rollout": 1.0,
   "min_shell": 1,
   "notes": [
-   "A new section, Invest, takes the place of Trade → Trends. It has four pages instead of one long one.",
-   "Plan: your goal in gold and a basket of goods to buy before the raids. Type a sum (700 gold, say) and choose Careful, Balanced or Bold: the basket says what to buy, how many and up to what price, keeps a part in the purse, lets no item and no kind of goods take too large a share, and buys no more of anything than the market sells back in a raid week. It shows what the basket brings if prices stay, rise by a quarter or by a half, and the most it can lose. One press puts it on a shopping list. Below it, the steps from gold to goods and back.",
-   "Raids: a raid evening by role - tank, caster, healer, melee, hunter - at your prices; what every raid good is made of and how much the crafter keeps; the calendar; and the week of a raid good, which will show its cheap and its dear day once there are weeks enough.",
-   "Rising: the goods that rise steadily, to buy now and sell in a week or two.",
-   "Market: a price index by kind of goods, the stock on sale, the gold traded a day, the biggest markets, and everything that sells every day.",
-   "Prices somebody moves: the program now sees when the stock of an item was bought out and listed again higher, when a price stands far above its own week, when it jumps from day to day, and when a few bait lots sit far under the rest. Such goods are left out of the basket and of Rising, and Market lists them with what followed such moves on your own scans. If you hold one, it says to sell into the jump."
+   "Invest → Portfolio, a new page: what you bought to sell later. Every position with its units in the bags, the bank, the mail and on the auction house, by character; what you paid, the price now, the price above which a sale pays back; what your holdings were worth on each of the last fourteen days; and which position to sell now.",
+   "The plan was checked again against earlier raid launches, what the developers said about the raids, and what players are told to buy. The Plan page now shows the case for and against a rise, and the raid goods' week by kind.",
+   "The basket changed with it: a good comes first when one raid evening needs a lot of it against what sells a day; what jumped in the last days is left out, as such jumps came back on your own scans; the herbs of the new Hyjal flasks are left out until the flasks' recipes are found; a fall of 20% stands next to the rises.",
+   "The steps now say to sell in parts as well, beginning before the raids: many players hold the same goods for the same day.",
+   "A raid evening by role is said as what it is: the most a raider spends, not the usual evening."
   ]
  },
  "revoked": []
