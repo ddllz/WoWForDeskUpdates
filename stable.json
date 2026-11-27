@@ -1,21 +1,19 @@
 {
  "format": 1,
  "channel": "stable",
- "issued": 1795637691,
+ "issued": 1795738114,
  "app": {
-  "version": "0.6.11",
-  "file": "app-0.6.11.wfd",
-  "sha256": "ccf1efdd9789acd1366aa0b70d22e2e27df373a2f107f1067da74d72c2af847e",
-  "size": 6616159,
+  "version": "0.6.12",
+  "file": "app-0.6.12.wfd",
+  "sha256": "6dc2bc430f928ac786ff69165320d9437dc6b7c708837f4313994db1290b1d10",
+  "size": 6706078,
   "rollout": 1.0,
   "min_shell": 1,
   "notes": [
-   "Gear upgrades from the auction house work after a scan again. The game reads the scanned items many times faster (it only reads each item's tooltip now: the program counts every gear scale itself), and a new scan or a new level no longer throws away what was read before. The chat says how long it takes and when the items are ready.",
-   "If the game has not read every scanned item yet, the slot's panel says how many are left.",
-   "A copy button next to every item on the auction house list: one press puts its name on the clipboard for the game's auction house search.",
-   "The slot's panel can show items up to your level only, or two levels above it too; the choice is remembered. The panel is wider and its choices stand side by side.",
-   "New stat weights for leveling: priest (the wand counts most), Elemental and Enhancement shaman; Balance druid at 60.",
-   "Addon 0.8.3; the full scan of the auction house goes faster too."
+   "Farm → Ways to earn: the ways to earn gold that players show in videos and write in guides and forums, each one checked against your own auction house and characters. You see the source's gold an hour next to the program's estimate for your character (and at the source's own kills an hour), the items with their price now, the week's change and how many sell a day, which profession cooldowns pay at today's prices and who of your characters can run them, and which farms were cut by a hotfix or bring bans.",
+   "Trade → Trends starts with a goal: type how much gold you want, and see what you have, how much a day it takes before the raids open on 9 December, the cooldowns your characters can run until then, your best checked farm and the hours it takes, and what is worth holding with the gold you have.",
+   "Trends: a new table of the goods raids burn - flasks, fire protection, elixirs and the herbs behind them - with the price now, the top of their first week and how much you would lose if the price fell to the merchant's.",
+   "Trends reads more plainly: what to buy now to sell in a week, what to stock before the raids, and the whole market, each under its own heading; more of it is in Russian."
   ]
  },
  "revoked": []
