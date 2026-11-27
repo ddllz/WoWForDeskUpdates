@@ -1,20 +1,17 @@
 {
  "format": 1,
  "channel": "stable",
- "issued": 1795783349,
+ "issued": 1795796167,
  "app": {
-  "version": "0.6.19",
-  "file": "app-0.6.19.wfd",
-  "sha256": "eb7491be6d6046e2dba4e66424a87af89153843d155ef862d6fef041948f6371",
-  "size": 6938977,
+  "version": "0.6.20",
+  "file": "app-0.6.20.wfd",
+  "sha256": "14acf98ed28feb8f91d52c466090b21f4b26743a40e515e0dcf95f927f81228b",
+  "size": 6992759,
   "rollout": 1.0,
   "min_shell": 1,
   "notes": [
-   "What you hold of the raid goods is part of the plan: the plan is a share of your gold and those goods together, and a basket bought in full is no longer followed by a second one for the gold that is left. The page says how much is in raid goods already, and that the plan is bought when it is.",
-   "No crumbs in the basket: a purchase of a few pieces, or of what is left of the gold, is not suggested.",
-   "The list “Raids” is made equal to the basket: a good that left the basket leaves the list, the count is what to hold in all, and the page says when the list in the game was made from an earlier basket.",
-   "A page that waits for its data shows its name, its tabs and grey bars at once: a click no longer looks as if nothing happened.",
-   "The game: the count of the Buy checklist has room for three digits on both sides (addon 0.8.4)."
+   "Pages open faster. A page you have opened is shown at once when you come back to it: its numbers are kept until a new scan arrives or you save something, and after a scan the pages you opened lately are worked out again behind the scenes. Before, the gear summary took about 4 seconds on every click, the plan about 4, Invest about 2.",
+   "The first opening after a scan is shorter too: the first page 12 seconds before, about 2 now; a walk through every page 43 seconds before, 12 now."
   ]
  },
  "revoked": []
