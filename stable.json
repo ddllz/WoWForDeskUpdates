@@ -1,18 +1,17 @@
 {
  "format": 1,
  "channel": "stable",
- "issued": 1795748117,
+ "issued": 1795749825,
  "app": {
-  "version": "0.6.17",
-  "file": "app-0.6.17.wfd",
-  "sha256": "42ce910271dd041841d5f6d84d6abcecc8f1fa55aedb7e855bf34c2dabc5cfd9",
-  "size": 6934113,
+  "version": "0.6.18",
+  "file": "app-0.6.18.wfd",
+  "sha256": "2c58edb5442acf34b219e4f4f72e08757e0a5c7ad1e9ac875968c2ae273f0ba1",
+  "size": 6933405,
   "rollout": 1.0,
   "min_shell": 1,
   "notes": [
-   "Invest → Raids: a new block, How fast mana runs out here - what each class spends and gets back a second in simulated boss fights of this game, and what it is short of a minute. It is marked as a simulation: a direction, not a measurement.",
-   "Mana on the role lists: runes for casters, healers and hunters, the cheaper mana potion beside the major one, mana potions for a third of the melee. Dark Rune and Superior Mana Potion are raid goods now: the basket weighs them and the portfolio tracks them.",
-   "The major mana potion's raid need sits between what the logs measured and what the simulation says."
+   "Greater Mageblood Elixir is weighed as mana, not as one more elixir: it is on the lists of casters and hunters as well as healers, and the basket takes it when its price allows.",
+   "The item panel says when somebody moved the price - the stock bought out and listed dearer, a price far above its week - with the same words as the Invest pages."
   ]
  },
  "revoked": []
